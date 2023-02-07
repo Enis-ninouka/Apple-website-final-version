@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+    font-family: 'SF Pro';
+}
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "SF pro", sans-serif;
+    padding-top: 60px;
+    background: url(history.jpeg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+    font-weight: 460;
+    line-height: 1.47059;
+    letter-spacing: -.022em;
+}
+
+h1 {
+    text-align:center;
+    font-family:'SF pro';
+    font-size:6em;
+    color:white;
+}
